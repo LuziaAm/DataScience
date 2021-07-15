@@ -1,0 +1,44 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Projeto.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "mount_file_id": "1w9T5G6DXLRJO-DByql7d1vuRIN20gGjp",
+      "authorship_tag": "ABX9TyOier/5yQfGOGp2VfTo7QAv",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/LuziaAm/DataScience/blob/main/Aula3_ML_INDT_Clusters.ipynb%20Created%20using%20Colaboratory\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "xcd6ZeA0UkWv"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
